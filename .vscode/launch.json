@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddTwo",
+            "request": "launch",
+            "mainClass": "AddTwo",
+            "projectName": "hw01-lidorStudent_a715df28",
+            "args": "1 2"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
