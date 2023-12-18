@@ -5,6 +5,8 @@
  */ 
 public class Triangle {
 	public static void main(String[] args) {
-		// Put your code here	
+		int side1 = Integer.parseInt(args[0]);
+        int side2 = Integer.parseInt(args[1]);
+        int side3 = Integer.parseInt(args[2]);
 	}
 }
