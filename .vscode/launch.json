@@ -9,7 +9,8 @@
             "name": "Coins",
             "request": "launch",
             "mainClass": "Coins",
-            "projectName": "hw01-lidorStudent_a715df28"
+            "projectName": "hw01-lidorStudent_a715df28",
+            "args": "132"
         },
         {
             "type": "java",
