@@ -6,12 +6,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "hw01-lidorStudent_a715df28",
+            "args": "2 3 6"
+        },
+        {
+            "type": "java",
             "name": "LinearEq",
             "request": "launch",
             "mainClass": "LinearEq",
             "projectName": "hw01-lidorStudent_a715df28",
             "args": "2 5 19"
-
         },
         {
             "type": "java",
@@ -70,7 +77,8 @@
             "name": "Triangle",
             "request": "launch",
             "mainClass": "Triangle",
-            "projectName": "hw01-lidorStudent-1_391abacc"
+            "projectName": "hw01-lidorStudent-1_391abacc",
+            "args": "3 4 5"
         }
     ]
 }
