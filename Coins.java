@@ -4,6 +4,7 @@
  */
 public class Coins {
 	public static void main(String[] args) {
-		// Put your code here
+		int sum = Integer.parseInt(args[0]);
+		
 	}
 }
